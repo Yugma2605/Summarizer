@@ -1,0 +1,113 @@
+{
+  "status": "success",
+  "timestamp": "2025-11-23T18:42:10Z",
+  "requestId": "8f3d1e72-4b7a-4cc2-aa1b-94c298f77c11",
+  "metadata": {
+    "apiVersion": "v2.4.1",
+    "processingTimeMs": 142,
+    "cache": false
+  },
+  "user": {
+    "id": "usr_90127",
+    "name": {
+      "first": "Alicia",
+      "last": "Reynolds"
+    },
+    "email": "alicia.reynolds@example.com",
+    "phone": "+1-204-555-9812",
+    "roles": ["admin", "editor"],
+    "preferences": {
+      "theme": "dark",
+      "language": "en",
+      "notifications": {
+        "email": true,
+        "sms": false,
+        "push": true
+      }
+    }
+  },
+  "account": {
+    "accountId": "acc_55230",
+    "subscription": {
+      "tier": "enterprise",
+      "expiresOn": "2026-01-15",
+      "features": [
+        "advanced-analytics",
+        "priority-support",
+        "multi-region-access",
+        "audit-logging"
+      ]
+    },
+    "usage": {
+      "apiCalls": {
+        "currentMonth": 12874,
+        "limit": 20000
+      },
+      "storage": {
+        "usedGB": 42.7,
+        "limitGB": 100
+      }
+    }
+  },
+  "recentActivity": [
+    {
+      "id": "act_001",
+      "action": "login",
+      "ip": "192.168.1.14",
+      "location": "New York USA",
+      "device": "Chrome on Windows",
+      "timestamp": "2025-11-23T18:31:22Z"
+    },
+    {
+      "id": "act_002",
+      "action": "updated_settings",
+      "ip": "192.168.1.14",
+      "changes": {
+        "theme": "dark",
+        "language": "en"
+      },
+      "timestamp": "2025-11-23T17:58:02Z"
+    },
+    {
+      "id": "act_003",
+      "action": "created_resource",
+      "resource": {
+        "type": "dataset",
+        "resourceId": "ds_889120"
+      },
+      "timestamp": "2025-11-23T16:21:48Z"
+    }
+  ],
+  "resources": {
+    "datasets": [
+      {
+        "id": "ds_889120",
+        "name": "Market Trends 2025",
+        "sizeMB": 523.9,
+        "tags": ["finance", "forecast", "2025"],
+        "createdAt": "2025-11-23T16:20:00Z"
+      },
+      {
+        "id": "ds_778451",
+        "name": "User Behavior Insights",
+        "sizeMB": 123.4,
+        "tags": ["analytics", "users"],
+        "createdAt": "2025-10-05T14:09:33Z"
+      }
+    ],
+    "models": [
+      {
+        "id": "mdl_20113",
+        "name": "RecommendationEngineV4",
+        "version": "4.2.0",
+        "status": "active",
+        "lastTrained": "2025-11-20T09:33:51Z",
+        "metrics": {
+          "accuracy": 0.921,
+          "f1Score": 0.903,
+          "latencyMs": 54
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+id,name,age,country,email,signup_date,is_active,score,rank,purchase_count,premium_member,last_login_days,city,device,feedback_rating
+1,User_1,41,USA,user1@example.com,2023-01-01,True,766,32,2,True,75,Mumbai,Android,1.57
+2,User_2,45,Canada,user2@example.com,2023-01-02,True,583,411,7,False,45,London,Windows,2.49
+3,User_3,28,USA,user3@example.com,2023-01-03,True,973,33,1,True,231,Toronto,Windows,3.07
+4,User_4,56,USA,user4@example.com,2023-01-04,False,64,283,8,True,176,Toronto,MacOS,3.37
+5,User_5,31,India,user5@example.com,2023-01-05,True,654,341,8,True,358,London,Windows,4.52
+6,User_6,57,India,user6@example.com,2023-01-06,True,270,208,5,True,119,New York,Windows,1.27
+7,User_7,31,USA,user7@example.com,2023-01-07,False,873,143,4,False,250,Berlin,Android,2.17
+8,User_8,35,UK,user8@example.com,2023-01-08,True,511,194,3,False,228,Toronto,MacOS,1.2
+9,User_9,26,India,user9@example.com,2023-01-09,False,227,471,16,False,154,Toronto,Windows,2.75
+10,User_10,44,India,user10@example.com,2023-01-10,False,341,259,16,False,23,Toronto,Windows,1.23
+11,User_11,49,USA,user11@example.com,2023-01-11,True,403,349,18,True,121,Mumbai,iOS,2.75
+12,User_12,40,Canada,user12@example.com,2023-01-12,True,404,136,6,False,270,New York,Windows,2.15
+13,User_13,39,UK,user13@example.com,2023-01-13,True,246,27,6,True,254,London,iOS,1.87
+14,User_14,25,USA,user14@example.com,2023-01-14,False,981,304,14,False,339,London,Android,3.65
+15,User_15,31,UK,user15@example.com,2023-01-15,False,71,460,2,True,14,Toronto,Windows,2.21
+16,User_16,59,India,user16@example.com,2023-01-16,True,488,266,12,True,197,London,MacOS,4.64
+17,User_17,40,USA,user17@example.com,2023-01-17,False,644,424,3,True,45,Mumbai,Android,1.34
+18,User_18,32,India,user18@example.com,2023-01-18,False,668,191,13,True,312,Mumbai,Android,3.68
+19,User_19,28,India,user19@example.com,2023-01-19,True,263,351,8,True,355,New York,iOS,1.46
+20,User_20,35,UK,user20@example.com,2023-01-20,False,619,149,17,True,361,Toronto,Windows,3.8
+21,User_21,29,Canada,user21@example.com,2023-01-21,True,636,40,7,False,311,Berlin,iOS,1.83
+22,User_22,53,USA,user22@example.com,2023-01-22,False,120,257,16,False,223,Mumbai,Android,4.67
+23,User_23,29,India,user23@example.com,2023-01-23,False,624,156,5,True,24,New York,iOS,1.36
+24,User_24,53,USA,user24@example.com,2023-01-24,True,706,302,0,True,304,Toronto,Android,4.5
+25,User_25,32,Germany,user25@example.com,2023-01-25,True,440,97,15,True,334,Toronto,iOS,3.2
+26,User_26,45,Germany,user26@example.com,2023-01-26,True,553,300,17,False,119,Berlin,Android,3.73
+27,User_27,53,USA,user27@example.com,2023-01-27,True,86,154,4,False,261,Berlin,iOS,3.41
+28,User_28,18,UK,user28@example.com,2023-01-28,False,670,197,8,True,291,Toronto,MacOS,1.42
+29,User_29,26,Canada,user29@example.com,2023-01-29,True,5,201,15,False,305,Berlin,Android,2.11
+30,User_30,27,USA,user30@example.com,2023-01-30,True,554,324,15,True,78,Berlin,Windows,2.79
+31,User_31,57,Canada,user31@example.com,2023-01-31,True,695,223,1,False,99,London,Windows,1.12
+32,User_32,51,Canada,user32@example.com,2023-02-01,True,857,367,18,False,102,Berlin,iOS,4.46
+33,User_33,56,UK,user33@example.com,2023-02-02,True,445,60,12,True,62,Berlin,MacOS,1.93
+34,User_34,36,UK,user34@example.com,2023-02-03,False,619,456,9,True,355,Berlin,Android,3.4
+35,User_35,19,India,user35@example.com,2023-02-04,False,354,16,14,False,66,Mumbai,iOS,1.6
